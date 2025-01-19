@@ -1,2 +1,2 @@
 # CV
-Here I can see my new projects.
+https://nicolealzamora.github.io/CV/
